@@ -35,3 +35,5 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
 
 **acunetix stop**  
       service acunetix stop 
+```bash
+cd /etc

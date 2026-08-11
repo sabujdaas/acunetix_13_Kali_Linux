@@ -34,6 +34,6 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
       https://kali:3443/
 
 **acunetix stop**  
-      service acunetix stop 
+   ```bash   service acunetix stop 
 ```bash
 cd /etc

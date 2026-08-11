@@ -4,30 +4,38 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
 **acunetix-13 Downloads Now:**  
       https://drive.google.com/drive/folders/1AVmy2OtMDl76VH79pLu3c-C_yzATbNDZ?usp=drive_link 
 
-**open the downloads directory**  
+**open the downloads directory** 
+```bash
       cd Downloads
-
-**open the Acunetix_13 directory then**  
+```
+**open the Acunetix_13 directory then**
+```bash
       cd Acunetix_13
-
-**Need to file permutation**  
+```
+**Need to file permutation**
+```bash
       chmod +x *
-
+```
 **Run command in terminal**  
+```bash
       sudo bash ./acunetix_13.0.200217097_x64_.sh
-
-**Run command in terminal**  
+```
+**Run command in terminal**
+```bash
       sudo cp wvsc /home/acunetix/.acunetix/v_200217097/scanner/
-
-**Run command in terminal**  
+```
+**Run command in terminal** 
+```bash
       sudo cp license_info.json /home/acunetix/.acunetix/data/license/
-
-**acunetix status check**  
+```
+**acunetix status check** 
+```bash
       service acunetix status 
-      
+```
 **acunetix service run**  
 ```bash
        service acunetix start
+```
       
 **open the urls in the browser**  
       https://127.0.0.1:3443/
@@ -36,5 +44,6 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
 
 **acunetix stop**  
    ```bash
-service acunetix stop 
+      service acunetix stop
+```
 

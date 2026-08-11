@@ -26,7 +26,8 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
       service acunetix status 
       
 **acunetix service run**  
-      service acunetix start
+       ```bash
+       service acunetix start
       
 **open the urls in the browser**  
       https://127.0.0.1:3443/
@@ -34,6 +35,6 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
       https://kali:3443/
 
 **acunetix stop**  
-   ```bash   service acunetix stop 
-```bash
-cd /etc
+   ```bash
+service acunetix stop 
+

@@ -4,7 +4,7 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
 **acunetix-13 Downloads Now:**
       https://drive.google.com/drive/folders/1AVmy2OtMDl76VH79pLu3c-C_yzATbNDZ?usp=drive_link 
 
-**open the downloads directory**
+**open the downloads directory**  
       cd Downloads
 
 **open the Acunetix_13 directory then**

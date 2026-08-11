@@ -26,7 +26,7 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
       service acunetix status 
       
 **acunetix service run**  
-       ```bash
+```bash
        service acunetix start
       
 **open the urls in the browser**  

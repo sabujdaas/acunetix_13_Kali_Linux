@@ -10,31 +10,31 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
 ```
 **open the Acunetix_13 directory then**
 ```bash
-      cd Acunetix_13
+cd Acunetix_13
 ```
 **Need to file permutation**
 ```bash
-      chmod +x *
+chmod +x *
 ```
 **Run command in terminal**  
 ```bash
-      sudo bash ./acunetix_13.0.200217097_x64_.sh
+sudo bash ./acunetix_13.0.200217097_x64_.sh
 ```
 **Run command in terminal**
 ```bash
-      sudo cp wvsc /home/acunetix/.acunetix/v_200217097/scanner/
+sudo cp wvsc /home/acunetix/.acunetix/v_200217097/scanner/
 ```
 **Run command in terminal** 
 ```bash
-      sudo cp license_info.json /home/acunetix/.acunetix/data/license/
+sudo cp license_info.json /home/acunetix/.acunetix/data/license/
 ```
 **acunetix status check** 
 ```bash
-      service acunetix status 
+service acunetix status 
 ```
 **acunetix service run**  
 ```bash
-       service acunetix start
+service acunetix start
 ```
       
 **open the urls in the browser**  
@@ -44,6 +44,6 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
 
 **acunetix stop**  
    ```bash
-      service acunetix stop
+service acunetix stop
 ```
 

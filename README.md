@@ -30,7 +30,7 @@ Acunetix is an end-to-end web security scanner that offers a 360 view of an orga
       
 **open the urls in the browser**  
       https://127.0.0.1:3443/
-      or  
+        or  
       https://kali:3443/
 
 **acunetix stop**  
